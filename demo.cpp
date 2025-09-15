@@ -6,3 +6,4 @@ int main() {
     cin >> x;
     cout << "Hey " << x;
 }
+h 
